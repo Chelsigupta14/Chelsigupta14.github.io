@@ -6,8 +6,8 @@ This repository contains a simple static website deployed using **GitHub Pages**
 
 ## 🔗 Live Website
 
-**URL:** [https://yourusername.github.io](https://yourusername.github.io)  
-> Replace `yourusername` with your actual GitHub username.
+**URL:** [https://Chelsigupta14.github.io](https://Chelsigupta14.github.io)  
+
 
 ---
 
@@ -35,10 +35,10 @@ The objective of this task was to:
 
 ## 🧑‍💻 How It Was Done
 
-1. Created a public repository named `yourusername.github.io` on GitHub.
+1. Created a public repository named `Chelsigupta14.github.io` on GitHub.
 2. Cloned the repository locally using:
    ```bash
-   git clone https://github.com/yourusername/yourusername.github.io
+   git clone https://github.com/Chelsigupta14/Chelsigupta14.github.io
    ```
 3. Added the static website files:
    - `index.html` (structure)
@@ -80,7 +80,7 @@ The objective of this task was to:
 
 **Chelsi Gupta**  
 B.Tech in Computer Science  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: [https://github.com/Chelsigupta14](https://github.com/Chelsigupta14)
 
 ---
 
